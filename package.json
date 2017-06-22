@@ -16,7 +16,7 @@
   ],
   "version": "4.0.0",
   "dependencies": {
-    "async": "latest",
+    "async": "2.4.0",
     "tmp": "latest",
     "debug": "latest",
     "phantomjs-prebuilt": "latest",
